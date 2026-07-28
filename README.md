@@ -1,4 +1,5 @@
 Correcciones
+Los archivos del modulo 8 los cargo fuera de la carpeta porque la app de coderhouse no los toma.
 
 1 - Resolver el problema de falta de datos para completar la relación Dim_Categorias -> Dim_Productos: Se agregó el campo id_categoria a Dim_Productos mediante un proceso de combinación con Dim_Categorias. El producto Laptops no tenía una categoría equivalente en el dataset original, por lo que se asignó la categoría "Sin categoría" para preservar la integridad del modelo.
 
