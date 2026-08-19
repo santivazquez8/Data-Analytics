@@ -4,7 +4,9 @@ Proyecto integral de análisis de datos desarrollado como parte de una instancia
 
 El proyecto simula un escenario de análisis comercial y busca transformar datos de ventas y clientes en información útil para la toma de decisiones.
 
----
+### Dashboard
+
+![Dashboard de análisis de ventas](images/10_dashboard_final.png)
 
 ## 1. Selección del dataset
 
